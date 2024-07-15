@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # This script is used to pass the host's temperature values ​​to Homeassistant, running on a Proxmox VM.
-
 import os
 import logging
 import subprocess
